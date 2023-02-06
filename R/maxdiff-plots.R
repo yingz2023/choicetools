@@ -17,6 +17,7 @@
 #  plot.zero     : whether to plot dotted vertical line at X=0 (default FALSE)
 #                  (was the default as plotted through v0.70)
 #
+# My awesome change!
 
 plot.md.range <- function(md.define, use.raw=FALSE,
                           item.disguise=FALSE, plot.zero=FALSE) {
